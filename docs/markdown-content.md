@@ -5,9 +5,9 @@
 <!--- __Customization:__ Change the contact email. Remove the [Securitytxt](https://securitytxt.org/) link if you don’t have any. --->
 
 Keeping our customers' data protected at all times is our highest priority. This security overview provides a high-level overview of the security practices put in place to achieve that objective.
-Have questions or feedback? Feel free to reach out to us at [security@DOMAIN](mailto:security@DOMAIN)
+Have questions or feedback? Feel free to reach out to us at [security@caro.health](mailto:security@caro.health)
 
-Our security.txt can be accessed [here](DOMAIN/security.txt).
+Our security.txt can be accessed [here](caro.health/security.txt).
 
 ## Dedicated Security Team
 
